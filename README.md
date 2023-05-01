@@ -9,4 +9,4 @@ It is pathfinding visualizer that contains the following algorithm:
 6. Depth First Search(un-weighted)
 
 Visit the link below for its working:
-https://utopia-trail.herokuapp.com/
+https://bhumitsihag.github.io/Trail-Utopia/#
